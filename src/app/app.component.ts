@@ -9,5 +9,5 @@ import { CommonModule } from '@angular/common';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'voice input forms Angular16';
+  title = 'Voice Input Forms Angular16';
 }
